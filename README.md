@@ -1,18 +1,25 @@
 # 폐기물 발생 및 처리현황 데이터 분석
 ### : 생활계 폐기물 처리방식에 따른 분류별 변화추이
 -------------------------------------------------------------------
-        
-        
+#### Period: 2021.02.09 ~ 2021.02.18
+#### Member: 류승환, 장지혜, 장혜임
+
+
+![d](https://user-images.githubusercontent.com/75402257/108579704-7f567700-736b-11eb-830a-c6452a4ab098.jpg)
+ [사진=헤럴드DB]
+
+
+
+## “Z세대들 사이에서 이런 행동을 하게 된 가장 중요한 동인은 ‘기후 변화’입니다.”
+ ##### - Maya's Ideas CEO Penn
+ 
+ 
 ## 1. 주제 선정
 
 - 'MZ세대'의 주된 관심사인 '지속가능한 미래', '지속가능한 발전'중 환경문제는 전세계적인 이슈
-- 새로운 세대의 등장과 이를 겨냥한 기업의 '친환경 마케팅'과 그로 이한 환경개선 문제에 관심을 가지고 접근함
-
-- 국제에너지기구(IEA)가 발표한 온실가스 통계자료를 보면, 한국의 이산화탄소 배출 증가량은 OECD 중 1위, 
-  온실가스 배출량은 세계 7위로 국민 1인당 배출량은 11.7톤에 이름
-  
-- 배출된 온실가스는 지구온난화의 주범으로 온실가스 배출량 감축을 위한 방법으로는 
-에너지 절약, 폐기물 재활용, 환경친화적 상품 사용, 신에너지 개발 등이 있음
+- 기후변화 즉, 지구 온난화 현상의 주범은 온실가스 배출
+- 온실가스는 화석 연료를 사용할 때 배출되는 이산화탄소와 농업 활동 및 폐기물 처리로 발생하는 메탄과 아산화질소가 주를 이룸
+- 이에 따라 폐기물 발생 및 처리현황 데이터를 분석하여 인사이트를 도출하고자 함
 
 -------------------------------------------------------------------
 ## 2. Data 소개
@@ -39,20 +46,18 @@ df_1 = read(datas/ -
  - 처리 유형별 변화추이와 원인 분석
 
 ----------------------------------------------------------------
-## 4. 
+## 4. Process
  
 ----------------------------------------------------------------
-## 5. 
+## 5. Insight
 
 ----------------------------------------------------------------
-#### Period: 2021.02.09 ~ 2021.02.18
 
 ### Member / role
 
 - 류승환 / 자료조사 및 발표
 - 장지혜 / PPT 작성 및 발표준비자료 
 - 장혜임 / 데이터전처리 및 시각화
-
 
 -----------------------------------------------------------------
 ### Data 출처
@@ -63,24 +68,27 @@ df_1 = read(datas/ -
 
 ### Reference
 
-####기사
-- 강은지 (2019. 11. 26.). “폐기물 처리비용 年 23조원 육박… 플라스틱 재활용 체계부터 바꾸자”. <동아닷컴>. URL: https://www.donga.com/news/article/all/20191126/98532768/1
-- 김동수 (2020. 03. 25.). [냉장고 비우고 지구를 구하라 ⑦] 음식물 쓰레기 정책…근본적으로 배출량 줄여야. <그린포스트코리아>. URL: http://www.greenpostkorea.co.kr/news/articleView.html?idxno=115830#:~:text=두 곳에서 배출된,가스 등)로 재활용됐다.
+#### 기사
+- 강은지 (2019. 11. 26.). “폐기물 처리비용 年 23조원 육박… 플라스틱 재활용 체계부터 바꾸자”. <동아닷컴>.
+	- URL: https://www.donga.com/news/article/all/20191126/98532768/1
+- 김동수 (2020. 03. 25.). [냉장고 비우고 지구를 구하라 ⑦] 음식물 쓰레기 정책…근본적으로 배출량 줄여야. <그린포스트코리아>. 
+-	- URL: http://www.greenpostkorea.co.kr/news/articleView.html?idxno=115830#:~:text=두 곳에서 배출된,가스 등)로 재활용됐다.
 - 김종민 (2008. 12. 02.). 쓰레기봉투 속 들여다보니…종이류 '최다'. <뉴시스>.
-	URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0002408414
+	- URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0002408414
 - 연합뉴스 (1992. 07. 20.). '음식물쓰레기처리 퇴비화가 최적'. <연합뉴스>. 
-	URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=001&aid=0003575814"
+	- URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=001&aid=0003575814"
 - 연합뉴스 (1995. 03. 22.). 수도권에 음식쓰레기 처리시설 설치. <연합뉴스>. 
-	URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0003979249"
+	- URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0003979249"
 - 연합뉴스 (1996. 06. 07.). 음식물쓰레기 1t 경제적 가치 8만1천원. <연합뉴스>. 
-	URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0004116008
+	- URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0004116008
 - 연합뉴스 (1998. 01. 12.). 쓰레기중 종이류 비중 가장 높아. <연합뉴스>.
-	URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0004308700
-- 조선일보 (1997. 06. 05.). [입법예고] 2005년부터 음식물쓰레기 직매립 금지. <조선일보>. URL: https://www.chosun.com/site/data/html_dir/1997/06/05/1997060570160.html
+	- URL: https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0004308700
+- 조선일보 (1997. 06. 05.). [입법예고] 2005년부터 음식물쓰레기 직매립 금지. <조선일보>. 
+	- URL: https://www.chosun.com/site/data/html_dir/1997/06/05/1997060570160.html
 - 코네틱리포트 (2001). 음식물 쓰레기 감량화 및 재활용 기술. <konetic>. 
-	URL: https://www.konetic.or.kr/insight/koneticreport_view.asp?unique_num=323&tblNm=
+	- URL: https://www.konetic.or.kr/insight/koneticreport_view.asp?unique_num=323&tblNm=
 - happist (2020. 04. 08.). Z세대 특성 2/4, 환경 보호에 높은 관심과 적극적 참여. 
-	URL: https://happist.com/571662/z세대-특성-1-3-환경-보호에-높은-관심과-적극적-참여#Zsedae_teugseong_24_hwangyeong_boho-e_nop-eun_gwansimgwa_jeoggeugjeog_cham-yeo
+	- URL: https://happist.com/571662/z세대-특성-1-3-환경-보호에-높은-관심과-적극적-참여#Zsedae_teugseong_24_hwangyeong_boho-e_nop-eun_gwansimgwa_jeoggeugjeog_cham-yeo
 
 #### 논문 및 보고서
 - 김두환 (2005). 음식물폐기물의 직매립 금지. <나라경제>, 2005(1), 63-66.
