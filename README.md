@@ -47,6 +47,18 @@ df_1 = read(datas/ -
 
 ----------------------------------------------------------------
 ## 4. Process
+![1](https://user-images.githubusercontent.com/75402257/108580098-5e8f2100-736d-11eb-8c17-1a875cd07746.PNG)
+![그림2](https://user-images.githubusercontent.com/75402257/108580360-8a5ed680-736e-11eb-8809-e3a430fcfb7c.PNG)
+![2](https://user-images.githubusercontent.com/75402257/108580099-5fc04e00-736d-11eb-875c-c49cde70f1b2.PNG)
+![3](https://user-images.githubusercontent.com/75402257/108580101-618a1180-736d-11eb-848b-6ff46d50e86d.PNG)
+![4](https://user-images.githubusercontent.com/75402257/108580102-6353d500-736d-11eb-8ec5-d8436ec4e749.PNG)
+![5](https://user-images.githubusercontent.com/75402257/108580105-64850200-736d-11eb-938b-3213e7d6e1b8.PNG)
+![6](https://user-images.githubusercontent.com/75402257/108580107-651d9880-736d-11eb-954e-adc06dcd865c.PNG)
+![7](https://user-images.githubusercontent.com/75402257/108580108-664ec580-736d-11eb-9474-d6ddcd4af4ae.PNG)
+![8](https://user-images.githubusercontent.com/75402257/108580112-66e75c00-736d-11eb-838e-142bf7f1e806.PNG)
+![9](https://user-images.githubusercontent.com/75402257/108580114-68188900-736d-11eb-9459-8b6069017167.PNG)
+
+
  
 ----------------------------------------------------------------
 ## 5. Insight
@@ -56,8 +68,8 @@ df_1 = read(datas/ -
 ### Member / role
 
 - 류승환 / 자료조사 및 발표
-- 장지혜 / PPT 작성 및 발표준비자료 
-- 장혜임 / 데이터전처리 및 시각화
+- 장지혜 / 분석, 발표기획 및 발표자료작성, 검토, 자료조사 
+- 장혜임 / 데이터전처리, 분석, 시각화, 발표자료 검토, 자료조사
 
 -----------------------------------------------------------------
 ### Data 출처
