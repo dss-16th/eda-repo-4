@@ -31,13 +31,6 @@
   - 연간 폐기물의 재활용실적 (2001년 ~ 2015년)
   
   
-
- ### 2-1. Read data
- 
- 
-```
-df_1 = read(datas/ -
-```
 ---------------------------------------------------------------
 ## 3. Goals
 
@@ -49,8 +42,12 @@ df_1 = read(datas/ -
 ## 4. Process
 ![1](https://user-images.githubusercontent.com/75402257/108580098-5e8f2100-736d-11eb-8c17-1a875cd07746.PNG)
 1. 생활계폐기물 발생 및 처리현황, 연도별 비교
+ 
+![ddd](https://user-images.githubusercontent.com/75402257/108581774-f2172080-7372-11eb-91e2-060647ffb365.PNG)
+
 
 ![그림2](https://user-images.githubusercontent.com/75402257/108580360-8a5ed680-736e-11eb-8809-e3a430fcfb7c.PNG)
+
 2. 생활계폐기물의 소각 처리량 변화 : 96년도를 기준으로 변화정도 비교 (1:1:1)
 ![2](https://user-images.githubusercontent.com/75402257/108580099-5fc04e00-736d-11eb-875c-c49cde70f1b2.PNG)
 2-1. 연도별 소각 처리량의 변화도 : 처리방법 중 소각이 큰 폭으로 늘어난 것을 알 수 있음
