@@ -48,21 +48,29 @@ df_1 = read(datas/ -
 ----------------------------------------------------------------
 ## 4. Process
 ![1](https://user-images.githubusercontent.com/75402257/108580098-5e8f2100-736d-11eb-8c17-1a875cd07746.PNG)
+1. 생활계폐기물 발생 및 처리현황, 연도별 비교
 ![그림2](https://user-images.githubusercontent.com/75402257/108580360-8a5ed680-736e-11eb-8809-e3a430fcfb7c.PNG)
+2. 생활계폐기물의 소각 처리량 변화 : 96년도를 기준으로 변화정도 비교를 위한 코드작성
 ![2](https://user-images.githubusercontent.com/75402257/108580099-5fc04e00-736d-11eb-875c-c49cde70f1b2.PNG)
+2-1. 연도별 소각 처리량의 변화도 : 처리방법 중 소각이 큰 폭으로 늘어난 것을 알 수 있음
 ![3](https://user-images.githubusercontent.com/75402257/108580101-618a1180-736d-11eb-848b-6ff46d50e86d.PNG)
+2-2. 소각 폐기물 순위비교 : 플라스틱, 종이류, 음식물류폐기물의 증가
 ![4](https://user-images.githubusercontent.com/75402257/108580102-6353d500-736d-11eb-8ec5-d8436ec4e749.PNG)
+2-3. 플라스틱, 종이류의 소각율 증가: 종량제 시행 및 분류체계의 문제점
 ![5](https://user-images.githubusercontent.com/75402257/108580105-64850200-736d-11eb-938b-3213e7d6e1b8.PNG)
+3. 매립 폐기물 연도별 순위비교: 음식물류폐기물의 매립량이 급격히 줄어드는 것을 알 수 있음
 ![6](https://user-images.githubusercontent.com/75402257/108580107-651d9880-736d-11eb-954e-adc06dcd865c.PNG)
+3-1. 음식물류폐기물의 변화요인: 지자체별 시행하던 "음식물류폐기물직매립금지", 전국으로 확대시행
 ![7](https://user-images.githubusercontent.com/75402257/108580108-664ec580-736d-11eb-9474-d6ddcd4af4ae.PNG)
+4. 재활용 폐기물 연도별 순위비교: 음식물류 폐기물의 급격한 증가 양상
 ![8](https://user-images.githubusercontent.com/75402257/108580112-66e75c00-736d-11eb-838e-142bf7f1e806.PNG)
+4-1. 음식물류폐기물 재활용률 증가 원인: 「폐기물관리법」, 음식물류 직매립금지법의 영향
 ![9](https://user-images.githubusercontent.com/75402257/108580114-68188900-736d-11eb-9459-8b6069017167.PNG)
-
+5. 음식물류폐기물 발생현황: 급격한 변화양상을 띈 원인 비교∙분석
 
  
 ----------------------------------------------------------------
-## 5. Insight
-
+## 5. Conclusion
 ----------------------------------------------------------------
 
 ### Member / role
